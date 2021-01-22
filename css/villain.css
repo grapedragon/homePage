@@ -40,7 +40,7 @@ p{
 
 }
 h2, h3{
-
+	margin: 0;
 	color: darkred;
 }
 h1{
@@ -50,10 +50,13 @@ h2{
 	font-size: 35px;
 }
 h3{
+	margin: 0;
 	font-size: 30px;
 	padding: 0px;
 }
 li{
+	margin: 0;
+	padding: 0px;
 	font-size: 25px;
 }
 
