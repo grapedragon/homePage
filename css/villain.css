@@ -3,6 +3,8 @@ body{
 	margin: 0;
 	background-color: #BDEDBB;
 	font-family: 'Dynalight', cursive;
+	font-size: 25px;
+	line-height: 30px;
 }
 header{
 	padding-top: 5%;
@@ -23,18 +25,56 @@ h1, h2, h3{
 	font-family: 'Limelight', cursive;
 }
 main{
-	padding-left: 10%;
-	max-width: 70%;
+	padding: 0;
+	padding-left: 4%;
+	max-width: 80%;
 	font-size: 40px;
-	text-align: center;
+	margin: 0 auto;
 	
 }
 
+
 p{
-	text-align: center;
+	font-size: 25px;
 
 }
 h2, h3{
 
 	color: darkred;
+}
+h1{
+	font-size: 45px;
+}
+h2{
+	font-size: 35px;
+}
+h3{
+	font-size: 30px;
+	padding: 0px;
+}
+li{
+	font-size: 25px;
+}
+
+main div{
+	margin: 0 auto;
+	float: right;
+	color: grey;
+}
+a{
+	color: darkred;
+}
+a:hover{
+	color:green;
+	background-color: darkgreen;
+}
+footer{
+	text-align: center;
+	padding: 10px;
+}
+footer p{
+	margin: 0;
+}
+p.caption{
+	color: grey;
 }
