@@ -1,0 +1,40 @@
+body{
+	background:#BDEDBB url('../img/sidevine.png') no-repeat 1px 1px;
+	margin: 0;
+	background-color: #BDEDBB;
+	font-family: 'Dynalight', cursive;
+}
+header{
+	padding-top: 5%;
+	padding-left: 15%;
+	padding-bottom: 1%;
+}
+
+header h1{
+	
+	color: darkgreen;
+}
+header img{
+	border-radius: 160px;
+	border:5px solid darkgreen;
+}
+
+h1, h2, h3{
+	font-family: 'Limelight', cursive;
+}
+main{
+	padding-left: 10%;
+	max-width: 70%;
+	font-size: 40px;
+	text-align: center;
+	
+}
+
+p{
+	text-align: center;
+
+}
+h2, h3{
+
+	color: darkred;
+}
